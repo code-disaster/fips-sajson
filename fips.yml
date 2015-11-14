@@ -1,0 +1,7 @@
+#
+# fips-sajson
+#
+---
+exports:
+    header-dirs:
+       - sajson/include
